@@ -1,0 +1,9 @@
+1. Run "requirements.py" to install the required packagez.
+2. Once that is complete, run "main.py" to start the program.
+3. Enter the username of the user you want to report.
+4. Click "Go" to start the report process.
+5. This will open a new browser window
+6. Wait around 10 seconds for the "start" button to appear.
+7. Click the "start" button to begin the report process.
+8. The program will automatically click the "report" button and fill out the report form.
+9. Give ur boy dougie some noggin
